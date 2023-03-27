@@ -1,0 +1,6 @@
+numfunc = int(input())
+hrtrab = int(input())
+valorhr = int(input())
+salario = float(hrtrab*valorhr)
+print(*NUMER= %d" %numfunc)
+print("SALARY = U$ %0.2f" %salario)
